@@ -1,6 +1,6 @@
 ## Задание №1 - подготовка рабочей среды 
-    - Terraform: [Терраформ](img/terraform.png)
-    - Bash: [bash](img/bash.png)
-    - Markdown: [markdown](img/markdown.png)
-    - Yaml: [Yaml](img/yaml.png)
-    - Jsonnet: [Jsonnet](img/jsonnet.png)
+    - Terraform: ![Terraform](img/terraform.png)
+    - Bash: ![Bash](img/bash.png)
+    - Markdown: ![Markdown](img/markdown.png)
+    - Yaml: ![Yaml](img/yaml.png)
+    - Jsonnet: ![Jsonnet](img/jsonnet.png)
