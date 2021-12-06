@@ -23,3 +23,5 @@ Jsonnet: ![Jsonnet](img/jsonnet.png)
 - внедрение
 - мониторинг и сопровождение
 - обратная связь
+
+localchanges
